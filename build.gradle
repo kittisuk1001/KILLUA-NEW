@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.example.killua_new'; compileSdk 35
+ defaultConfig { applicationId 'com.example.killua_new'; minSdk 23; targetSdk 35; versionCode 1; versionName '1.0' }
+}
